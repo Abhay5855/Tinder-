@@ -5,22 +5,22 @@ function Chats() {
   return (
     <div className="chats">
       <Chat
-        name="Rutkar"
+        name="Janvi"
         message="hey"
         timestamp="40 seconds ago"
-        profilePic="https://scontent.fnag4-1.fna.fbcdn.net/v/t1.6435-9/c0.0.866.866a/s851x315/89910138_562540641024679_3470197772597067776_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=da31f3&_nc_ohc=Ga0_buQszWgAX-AjD9Z&_nc_ht=scontent.fnag4-1.fna&tp=28&oh=a8424752d7a1e7b76cf478d78bf2a423&oe=60D0BCB5"
+        profilePic="https://m.economictimes.com/thumb/msid-65809826,width-640,height-480,resizemode-4,imgsize-167659/janhvikapoor.jpg"
       />
       <Chat
-        name="Aakriti"
+        name="Megan Fox"
         message="Kaisa hain"
         timestamp="3 days ago"
-        profilePic="https://scontent.fnag4-1.fna.fbcdn.net/v/t1.6435-9/s851x315/67646391_1336935886469181_5890040801668366336_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=da31f3&_nc_ohc=dfN3LgcFAJEAX-siE0R&_nc_ht=scontent.fnag4-1.fna&tp=7&oh=b0fd3b4a53c07305781b1a95e741c845&oe=60CEE615"
+        profilePic="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcuZqRnJSnYM0R8H6mG2hWdL4gT4G-96Q_BQ&usqp=CAU"
       />
       <Chat
         name="Sacarlett"
         message="I love You"
         timestamp="2 days ago"
-        profilePic="https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_.jpg"
+        profilePic="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu8pE3pqwf9J9QNFSwQMumYEl1r8GPkyW5SQ&usqp=CAU"
       />
     </div>
   );
