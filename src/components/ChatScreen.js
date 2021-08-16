@@ -9,16 +9,16 @@ function ChatScreen() {
   const [input,setInput] = useState('');
   const [messages, setMessages] = useState([
     {
-      name: "Rutkar",
+      name: "Janvi",
       image:
-        "https://scontent.fnag4-1.fna.fbcdn.net/v/t1.6435-9/c0.0.866.866a/s851x315/89910138_562540641024679_3470197772597067776_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=da31f3&_nc_ohc=Ga0_buQszWgAX-AjD9Z&_nc_ht=scontent.fnag4-1.fna&tp=28&oh=a8424752d7a1e7b76cf478d78bf2a423&oe=60D0BCB5",
+        "https://m.economictimes.com/thumb/msid-65809826,width-640,height-480,resizemode-4,imgsize-167659/janhvikapoor.jpg",
       message: "Hey",
     },
 
     {
-      name: "Aakriti",
+      name: "Megan",
       image:
-        "https://scontent.fnag4-1.fna.fbcdn.net/v/t1.6435-9/s851x315/67646391_1336935886469181_5890040801668366336_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=da31f3&_nc_ohc=dfN3LgcFAJEAX-siE0R&_nc_ht=scontent.fnag4-1.fna&tp=7&oh=b0fd3b4a53c07305781b1a95e741c845&oe=60CEE615",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu8pE3pqwf9J9QNFSwQMumYEl1r8GPkyW5SQ&usqp=CAU",
       message: "How are you",
     },
     {
