@@ -23,7 +23,7 @@ export default function Tindercard() {
       <div className="cards__allcontains">
         {person.map((people) => (
           <TinderCard
-            className="swipe"]
+            className="swipe"
             key={person.name}
             preventSwipe={["up", "down"]}
           >
